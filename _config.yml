@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
-title:            "ChippingX blog"
-description:      "Full Stack 独立开发者|欢迎来到 ChippingX「角落」侃侃理想、谈谈人生、敲敲代码。"
-url:              https://chippingx.github.io # 域名
-signoff:          "ChippingX" # Your name
+title:            "My blog"
+description:      ""
+url:              https://xuzp.space # 域名
+signoff:          "xuzp" # Your name
 share:            true 
 # 分页
 paginate: 15
